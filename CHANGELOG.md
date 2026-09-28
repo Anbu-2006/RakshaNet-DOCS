@@ -70,3 +70,4 @@ Release notes and development milestones.
 - [2026-09-28 09:18] docs(playbook): add automated incident response playbooks for MITRE ATT&CK techniques
 - [2026-09-28 11:28] docs(benchmarks): document failover latency and throughput under simulated DDoS
 - [2026-09-28 13:39] style(badges): embed live build status, code coverage, and security certification shields
+- [2026-09-28 15:49] docs(arch): publish enterprise cyber defense architecture and Groq failover topology
